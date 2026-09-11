@@ -2,39 +2,37 @@
 
 
 
-# [Project Name] 🎯
+# [Dual-Source Stereo Router & Mixer] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Useless team]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Udith Uday] - [Sree Narayana College of Engineering and Technology Chalakode]
+- Member 2: [Mmsha] - [Sree Narayana College of Engineering and Technology Chalakode]
+
 
 ### Project Description
-[2-3 lines about what your project does]
+It is a Dual-Source Stereo Router & Mixer
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+it distracts and waste the time 
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+it is fun and enjoying by litsening the combos
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [Python HTML]
 - [Frameworks used]
 - [Libraries used]
-- [Tools used]
+- Antigravity
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+[speakers]
 
 ### Implementation
 For Software:
@@ -48,14 +46,17 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1501" height="756" alt="Screenshot 2026-09-11 222028 - Copy" src="https://github.com/user-attachments/assets/46a32942-c02d-4851-a809-79e7fbf1876d" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+this shows the interface for choose the modes 
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1873" height="878" alt="Screenshot 2026-09-11 222359" src="https://github.com/user-attachments/assets/7eeafdb0-b487-47fb-b9f8-7a352a359cc2" />
+
+this shows to select the songs to make  the combo
+
+<img width="1832" height="816" alt="Screenshot 2026-09-11 222558" src="https://github.com/user-attachments/assets/b70e303c-78c1-49e6-9423-9135c5976f18" />
+
+this shows to start our combos 
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -82,8 +83,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1ovUGvRy1jnhCMKe8SZjA18DiGNeM1m7u/view?usp=sharing
 
 # Additional Demos
 [Add any extra demo materials/links]
