@@ -2,96 +2,98 @@
 
 
 
-# [Project Name] 🎯
+# [Dual-Source Stereo Router & Mixer] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Useless team]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Udith Uday] - [Sree Narayana College of Engineering and Technology Chalakode]
+- Member 2: [Mamsha] - [Sree Narayana College of Engineering and Technology Chalakode]
 
 ### Project Description
-[2-3 lines about what your project does]
+it is a Dual-Source Stereo Router & Mixer
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+it distracts and waste time
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+it makes fun by litsening the combo of music
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [Python HTML]
 - [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [FFmpeg, wasapi, port audio, c++]
+- [Antigravity]
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+[Speakers]
 
 ### Implementation
 For Software:
-# Installation
-[commands]
 
-# Run
-[commands]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1501" height="756" alt="Screenshot 2026-09-11 222028 - Copy" src="https://github.com/user-attachments/assets/360b839f-ddbd-4e56-9953-dce1c2a8e538" />
+this shows the interface to choose the modes
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1873" height="878" alt="Screenshot 2026-09-11 222359" src="https://github.com/user-attachments/assets/033e198e-acc6-46f3-a3d7-f2b01f4c4539" />
+this shows to choose the combo songs
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1832" height="816" alt="Screenshot 2026-09-11 222558" src="https://github.com/user-attachments/assets/b7646dbb-5a03-4f98-8ad1-d56f058bc6c8" />
+this shows to play the music
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+START
+  ↓
+Open Software
+  ↓
+Select Audio/Media Source 1
+  ↓
+Select Audio/Media Source 2
+  ↓
+Load & Decode Both Sources
+  ↓
+Extract Audio Streams
+  ↓
+Process Source 1
+  ↓
+Convert/Downmix → Mono if Required
+  ↓
+Route Source 1 → LEFT CHANNEL
+  ↓
+Process Source 2
+  ↓
+Convert/Downmix → Mono if Required
+  ↓
+Route Source 2 → RIGHT CHANNEL
+  ↓
+Mix LEFT + RIGHT Channels
+  ↓
+Create ONE Stereo Audio Stream
+  ↓
+Send to Selected Windows Audio Device
+  ↓
+🎧 LEFT EAR → Source 1
+🎧 RIGHT EAR → Source 2
+  ↓
+PLAY
+  ↓
+END
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1ovUGvRy1jnhCMKe8SZjA18DiGNeM1m7u/view?usp=sharing
 
-# Additional Demos
-[Add any extra demo materials/links]
 
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
